@@ -4,7 +4,7 @@ Hi 👋 My name is Krushnna Baviskar
 Backend Developer
 -----------------
 
-I am working on Java, GO, mySQL, docker and springboot
+I am working on Java, Springboot, Kafka, GO, MySQL, docker and Kubernetes. 
 
 * 🌍  I'm based in India
 
