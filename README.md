@@ -1,16 +1,27 @@
-Hi 👋 My name is Krushnna Baviskar
+Hi 👋 My name is Krushnna
 ==================================
 
 Backend Developer
 -----------------
 
-I am working on Java, Springboot, Kafka, GO, MySQL, docker and Kubernetes. 
+I am working on Java, GO, Kafka MySQL, Springboot, docker and Kubernetes. 
 
 * 🌍  I'm based in India
 
 <a href="https://www.twitter.com/krushnna45" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/krushnna45?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+
+## Top 5 Most Used Languages
+
+- ![Go](https://img.shields.io/badge/Go-55%25-4c8bf5?style=flat-square&logo=go&logoColor=white&color=4c8bf5&labelColor=2d4a76&gradient=to%20right)
+- ![Java](https://img.shields.io/badge/Java-25%25-f8981d?style=flat-square&logo=java&logoColor=white&color=f8981d&labelColor=1f4b36&gradient=to%20right)
+- ![MySQL](https://img.shields.io/badge/MySQL-5%25-00758f?style=flat-square&logo=mysql&logoColor=white&color=00758f&labelColor=344f63&gradient=to%20right)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-15%25-f7df1e?style=flat-square&logo=javascript&logoColor=black&color=f7df1e&labelColor=2e3b2d&gradient=to%20right)
+- ![React](https://img.shields.io/badge/React-5%25-61dafb?style=flat-square&logo=react&logoColor=black&color=61dafb&labelColor=003f63&gradient=to%20right)
+
+  > These are my top 5 languages based on my contributions across public and private repositories.
 
 ### Skills
 
@@ -33,12 +44,7 @@ src="https://img.shields.io/twitter/follow/krushnna45?logo=twitter&style=for-the
 
 <p align="left"> <a href="https://www.facebook.com/krushnna.45" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/krushnna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/krushnnna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/krushnnA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/krushnna45" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnna&hide_progress=true)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/krushnna/uber-clone-nextjs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=krushnna&repo=uber-clone-nextjs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
